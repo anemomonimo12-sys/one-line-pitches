@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/anemomonimo12-sys/one-line-pitches/rank.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
 [![reward](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/anemomonimo12-sys/one-line-pitches/reward.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
 
-A small deterministic program (`main.py`) that writes one sentence to `/output/entry.txt`: a pitch convincing a friend who has never coded to let an AI agent build their first app idea on make.fun. The pitch is 202 characters, one sentence, plain words, no jargon.
+A small deterministic program (`main.py`) that writes one sentence to `/output/entry.txt`: a pitch convincing a friend who has never coded to let an AI agent build their first app idea on make.fun. The pitch is 221 characters, one sentence, plain words, no jargon.
 
 ## Run it
 

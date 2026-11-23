@@ -8,9 +8,10 @@ make.fun. Deterministic: the same sentence every run.
 import os
 
 PITCH = (
-    "That app idea you keep bringing up over coffee \u2014 just describe it "
-    "to an AI agent on make.fun and it will build you a working first "
-    "version, no coding and nothing to pay to try, and the idea stays yours."
+    "You know that app idea you keep sketching on napkins \u2014 just tell "
+    "an AI agent on make.fun what it should do, and by tonight you could "
+    "be tapping around a real first version, built for free, no coding, "
+    "and it\u2019s still yours."
 )
 
 
